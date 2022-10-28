@@ -49,14 +49,21 @@ header{
     justify-content: center;
 }
 
+
+
 .header-content{
-    margin-bottom: 150px;
+    margin-bottom:50px;
     color: whitesmoke;
     text-align: center;
 }
 
 .header-content h2{
     font-size: 4vmin;
+}
+
+.mouse-click{
+    position: absolute
+
 }
 
 .line{
