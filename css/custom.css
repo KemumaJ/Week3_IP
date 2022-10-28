@@ -25,6 +25,8 @@ ul{
 
 .logo{
     position: absolute;
+    top: 100px;
+    right: 50%;
 
 }
 
@@ -62,17 +64,13 @@ header{
 }
 
 .mouse-click{
-    position: absolute
+    position: absolute;
+    top: 500px;
+    bottom: 50%;
 
 }
 
-.line{
-    width: 150px;
-    height: 4px;
-    background: crimson;
-    margin: 10px auto;
-    border-radius: 5px; 
-}
+
 
 .header-content h1{
     font-size: 7vmin;
@@ -83,4 +81,17 @@ header{
 
 a{
     text-decoration: none;
+}
+
+/* mobile device*/
+@media only screen and (max-width:850px){
+.navbar {
+    padding: 0;
+}
+
+.logo{
+position: absolute;
+top: 30px;
+left: 30px;
+}
 }
