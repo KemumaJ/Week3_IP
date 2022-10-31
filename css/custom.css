@@ -129,4 +129,15 @@ left: 30px;
 .service-icons{
     margin-top: 10px;
     text-align: center;
+    padding-right: 30px;
+}
+
+h2{
+    margin-top: 50px;
+    text-align: center;
+}
+
+.portfolio{
+    align-items: center;
+    margin-left: 100px;
 }
