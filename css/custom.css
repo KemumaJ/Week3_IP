@@ -109,3 +109,24 @@ left: 30px;
     font-size: small;
 
 }
+
+.services{
+    width: 100vw;
+    height: 50vh;
+    background-image: url(/background/s_imageDS.jpg);
+    background-position: bottom;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.service-content{
+    margin-bottom:50px;
+    text-align: center;
+}
+
+.service-icons{
+    margin-top: 10px;
+    text-align: center;
+}
