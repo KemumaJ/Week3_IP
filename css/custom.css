@@ -142,14 +142,41 @@ h2{
     margin-left: 100px;
 }
 
-.contacts{
+.wrapper{
+    height: 60vh;
     align-items: center;
-    margin-left: 400px;
+    margin-left: 100px;
     background-image: url(/background/c_imageDS.jpg);
-    margin-right: 200px;
+    margin-right: 200px
+
 }
 
-h6{
-    margin-top: 20px;
+.heading{
+    margin-top: 40px;
     text-align: center;
+}
+
+.heading h6{
+    color: whitesmoke;
+    margin: 5px;
+}
+
+form{
+    text-align: center;
+}
+
+form input{
+padding-right: 115px;
+box-sizing: border-box;
+margin-top: 30px;
+}
+
+form span{
+    position: relative;
+}
+
+.transbox{
+    margin: 30px;
+    border: 1px solid black;
+    opacity: 0.5;
 }
