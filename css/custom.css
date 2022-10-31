@@ -180,3 +180,16 @@ form span{
     border: 1px solid black;
     opacity: 0.5;
 }
+
+.social-icons{
+  margin-top: 50px;
+  margin-left: 350px;
+}
+
+footer{
+    text-align: center;
+}
+
+.footer h6{
+    text-align: center;
+}
