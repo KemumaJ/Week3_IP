@@ -141,3 +141,15 @@ h2{
     align-items: center;
     margin-left: 100px;
 }
+
+.contacts{
+    align-items: center;
+    margin-left: 400px;
+    background-image: url(/background/c_imageDS.jpg);
+    margin-right: 200px;
+}
+
+h6{
+    margin-top: 20px;
+    text-align: center;
+}
