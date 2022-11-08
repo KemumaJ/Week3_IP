@@ -119,18 +119,32 @@ left: 30px;
     display: flex;
     align-items: center;
     justify-content: center;
+    font-weight: bolder;
+    color: whitesmoke;
+}
+
+h5{
+   text-align: center;
 }
 
 .service-content{
     margin-bottom:50px;
-    text-align: center;
+    text-align: justify;
 }
 
-.service-icons{
-    margin-top: 10px;
+
+.column{
+    flex: 5%;
+    padding: 5px;
+  }
+
+  .services_icons{
+    margin-top: 50px;
     text-align: center;
-    padding-right: 30px;
+    padding-right: 5px;
+    display: flex;
 }
+
 
 h2{
     margin-top: 50px;
