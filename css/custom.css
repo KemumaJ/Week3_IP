@@ -44,7 +44,7 @@ header{
     width: 100vw;
     height: 100vh;
     background-image: url(/background/h_imgDS.jpg);
-    background-position: bottom;
+    background-position: center;
     background-size: cover;
     display: flex;
     align-items: center;
