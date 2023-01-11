@@ -40,7 +40,7 @@ ul{
 
 }
 
-.header-content{
+header{
     width: 100vw;
     height: 100vh;
     background-image: url(/background/h_imgDS.jpg);
@@ -53,7 +53,7 @@ ul{
 
 
 
-header{
+.header-content{
     margin-bottom:50px;
     color: whitesmoke;
     text-align: center;
