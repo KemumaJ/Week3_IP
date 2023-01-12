@@ -43,7 +43,7 @@ ul{
 header{
     width: 100vw;
     height: 100vh;
-    background-image: url("/background/h_imgDS2.png");
+    background-image: url("/background-image/h_imgDS2.png");
     background-position: center;
     background-size: cover;
     display: flex;
@@ -114,7 +114,7 @@ left: 30px;
 .services{
     width: 100vw;
     height: 50vh;
-    background-image: url("/background/s_imageDS2.png");
+    background-image: url("/background-image/s_imageDS2.png");
     background-position: bottom;
     background-size: cover;
     display: flex;
@@ -165,7 +165,7 @@ h2{
     height: 60vh;
     align-items: center;
     margin-left: 100px;
-    background-image: url("/background/c_imageDS2.png");
+    background-image: url("/background-image/c_imageDS2.png");
     margin-right: 200px;
     
 
